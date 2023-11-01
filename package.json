@@ -55,7 +55,7 @@
     "globby": "11.0.2",
     "gpt3-tokenizer": "^1.1.5",
     "graphql": "15.4.0",
-    "graphql-request": "3.3.0",
+    "graphql-request": "6.1.0",
     "gray-matter": "4.0.2",
     "lodash.merge": "4.6.2",
     "next": "^13.1.6",
